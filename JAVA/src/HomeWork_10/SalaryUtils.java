@@ -14,7 +14,6 @@ public class SalaryUtils {
     }
 
     static void main() {
-
         Employee employee1 = new Employee("Anna", 120);
         Manager manager = new Manager("Ira", 120, 6);
         Director director = new Director("ivan", 500,7);
